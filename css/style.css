@@ -1,0 +1,172 @@
+p input{
+	width: 432px;
+	border: 1px solid grey;
+	border-radius: 6px;
+	height: 19px;
+}
+
+ input {
+ 	color: #72767F; 
+ }
+
+.top{
+	background-color: #4460A1;
+	border: 0px solid black;
+}
+
+.besides{
+	padding: 5px 0 5px 0;
+	background-color:#E8E9ED;
+}
+body{
+	margin: 0;
+	background-color:red;
+}
+fieldset{
+	border: 0;
+}
+
+#profile{
+	border-radius: 8px;
+	border:1px solid #374D7E;
+}
+
+tr td{
+	padding: 0;
+}
+
+td p{
+	margin: 0;
+	padding: 0;
+	color: #FCFBFD;
+	font: 12px Arial;
+	font-weight: bold;
+}
+
+
+#profile, .logo{
+	margin: 0;
+	height: 24px;
+	width: 24px;
+}
+
+.mainFriends{
+	border-left: 1px solid #385493;
+	padding:0 0 0 10px;
+}
+
+.mainFriends, .settings-profile{
+	margin-left:8px;
+}
+			/*----------Разделение----------*/
+
+.main{
+	padding: 0 300px 0 300px;
+	background-color:#E8E9ED;
+}
+
+.mainTitle{
+	width:auto;
+	height: auto;
+	border:1px solid lightgrey;
+	border-radius:4px;
+	margin: 0 auto;
+	background-color: white;
+	padding:0 10px 0 10px;
+}
+.main p{
+	font: 14px Tahoma;
+	color: #AFAFB9;
+	padding:0 0 10px 0;
+}
+.borderBottom{
+	border-bottom:1px solid lightgrey;
+}
+p span{
+	color:#4460A1;
+	font-weight: bold;
+}
+.profileMain{
+	height: 36px;
+	width: 36px;
+	margin-right: 10px;
+}
+
+.photo{
+	height: 395px;
+	width:726px;
+}
+
+.small{
+	font-size: 12px;
+	margin:6px 0;
+}
+
+.lower{
+	border-left: 3px solid lightgrey;
+	padding:0 0 0 5px;
+	margin:0;
+	width:250px;
+	height:70px;
+}
+
+.lower p{
+	margin: 2px 0;
+	padding: 0;
+}
+
+.lower img{
+	margin:10px 0 0 0;
+	width: 100px;
+}
+
+.borderTop{
+	border-top: 1px solid lightgrey;
+	width:668px;
+}
+
+.data{
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+}
+
+.lower .translate{
+	color:#4460A1;
+}
+
+.likes{
+	color: black;
+	border:1px solid lightgrey;
+	border-left:0;
+	padding:3px 0 3px 5px;
+	height:auto;
+	background-color:#F5F6F8;
+}
+
+.likes p{
+	padding:10px 0 0 0;
+}
+div .likes span{
+	font-weight: normal;
+}
+
+.blockLikes{
+		border-left: 2px solid #7D9CD3;
+		margin:65px 0 0 0;
+}
+
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
+.description{
+	border-left:3px solid lightgrey;
+	padding-left:5px;
+	color:grey;
+}
+
+pre a:link, a:visited, a:hover, a:active{
+	color:darkgrey;
+}
